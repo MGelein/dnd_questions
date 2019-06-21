@@ -10,22 +10,53 @@ const readline = require('readline-sync');
 const blank = '\n'.repeat(process.stdout.rows);
 
 //Read and split the file
-const contents = fs.readFileSync('data/answers.tsv', 'utf-8');
+const contents = fs.readFileSync('data/answers_tagging.tsv', 'utf-8');
 const lines = contents.split("\n");
 
 //Go through every line and see if we can label it
-for(let i = 1; i < lines.length; i++){
+for (let i = 1; i < lines.length; i++) {
     //First check if this line has any useful data to label, if not skip it
     let parts = lines[i].split("\t");
-    if(parts[parts.length - 1].trim().length < 1) continue;
-    //If we have data, log what answer we're at, and show that
-    cls();
-    let headerLine = "answer " + i + " of " + lines.length;
-    console.log("=".repeat(headerLine.length + 4));
-    console.log("| " + chalk.bold(headerLine) + " |");
-    console.log("=".repeat(headerLine.length + 4));
-    console.log(parts[parts.length - 1].trim());
-    let reply = readline.question(chalk.grey("tags: "));
+    let replies = [];
+    if (parts[parts.length - 1].trim().length > 0) {
+        //If we have data, log what answer we're at, and show that
+        cls();
+        console.log(header("answer " + i + " of " + lines.length));
+        console.log(parts[7]);
+        console.log(chalk.grey("Current tags: ") + (parts.length > 8 ? parts[8] : "-"));
+        let reply = readline.question(chalk.grey("Add Tags: "));
+        reply.toLowerCase();
+        replies = reply.split(",");
+        for(let i = 0; i < replies.length; i++){
+            replies[i] = replies[i].trim().toLowerCase();
+        }
+    }
+
+    //If we haven't defined tags yet, add them, else add to existing tags
+    if(parts.length <= 8){
+        parts.push(replies.join("|"));
+    }else{
+        let oldRep = parts[8].split("|");
+        for(rep of replies){
+            if(oldRep.indexOf(rep) > -1) continue;
+            else oldRep.push(rep);
+        }
+        parts[8] = oldRep.join("|");
+    }
+    lines[i] = parts.join("\t");
+
+    //After every reply, save it to disk
+    fs.writeFileSync("data/answers_tagging.tsv", lines.join("\n", "utf-8"));
+}
+
+
+/**
+ * Turns the provided string into a header string
+ * @param {String} string 
+ */
+function header(string){
+    const border = "=".repeat(string.length + 4);
+    return border + "\n| " + chalk.bold(string) + "|\n" + border;
 }
 
 /**
