@@ -35,14 +35,15 @@ for (let i = 1; i < lines.length; i++) {
     //If we haven't defined tags yet, add them, else add to existing tags
     if(parts.length <= 8){
         parts.push(replies.join("|"));
-    }else{
-        let oldRep = parts[8].split("|");
-        for(rep of replies){
-            if(oldRep.indexOf(rep) > -1) continue;
-            else oldRep.push(rep);
-        }
-        parts[8] = oldRep.join("|");
     }
+    // else{
+    //     let oldRep = parts[8].split("|");
+    //     for(rep of replies){
+    //         if(oldRep.indexOf(rep) > -1) continue;
+    //         else oldRep.push(rep);
+    //     }
+    //     parts[8] = oldRep.join("|");
+    // }
     lines[i] = parts.join("\t");
 
     //After every reply, save it to disk
