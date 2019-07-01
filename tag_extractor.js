@@ -6,6 +6,7 @@ for(let line of lines){
     const parts = line.split("\t");
     if(parts.length < 9) continue;
     tagLine = parts[parts.length - 1];
+    tagLine = tagLine.split(" ").join("|");
     tags = tagLine.split("|");
     for(let tag of tags){
         tag = tag.trim().toLowerCase();
