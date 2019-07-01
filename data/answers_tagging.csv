@@ -31,7 +31,7 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/19 8:03:13 PM GMT+2,2,3,4,4,3,5,Every experience my character goes through; I go through. It gives you some life lessons without actually being there.,practice-irl
 2019/06/19 8:03:22 PM GMT+2,18,4,4,3,3,5,A lot of skill in storytelling,storytelling|
 2019/06/19 8:04:09 PM GMT+2,12,2,4,4,3,3,Tabletop RPGs have certainly helped me with taking the edge off of my social anxiety and through live streaming sessions; have even helped with my public-speaking. I don't know for certain if it has helped me make any friends; as noted above; but my friendships are certainly stronger with the people I game with. ,friendship|social
-2019/06/19 8:05:50 PM GMT+2,7,3,3,4,3,4,Critical thinking; problem-solving; improvisation; acting; mathematics; public-speaking,critical thinking|problem-solving|improvisation|acting|math|public-speaking|
+2019/06/19 8:05:50 PM GMT+2,7,3,3,4,3,4,Critical thinking; problem-solving; improvisation; acting; mathematics; public-speaking,problem-solving|improvisation|math|public-speaking|
 2019/06/19 8:06:27 PM GMT+2,1,2,4,5,3,3,,
 2019/06/19 8:08:36 PM GMT+2,4,3,3,4,3,4,Whenever you weave a complicated web; the things that stand out to other people aren't always the things that stand out to yourself. People will surprise you. ,management
 2019/06/19 8:10:54 PM GMT+2,3,4,3,4,4,4,,
@@ -39,16 +39,16 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/19 8:14:39 PM GMT+2,5,3,4,4,4,4,Cooperation. You have your story to tell but you also have to support others in telling their own story. ,cooperation|
 2019/06/19 8:15:12 PM GMT+2,3,3,3,3,2,3,,
 2019/06/19 8:15:17 PM GMT+2,1,1,2,2,4,4,Sense of adventure; closer friendship with people I play with.,friendship|
-2019/06/19 8:15:40 PM GMT+2,3,3,4,5,5,5,I've developed pretty good improv skills.,improvising|
+2019/06/19 8:15:40 PM GMT+2,3,3,4,5,5,5,I've developed pretty good improv skills.,improvisation|
 2019/06/19 8:17:18 PM GMT+2,4,3,1,3,2,2,,
-2019/06/19 8:18:26 PM GMT+2,14,3,2,3,2,4,Refining my ability to multitask,multitask|
+2019/06/19 8:18:26 PM GMT+2,14,3,2,3,2,4,Refining my ability to multitask,
 2019/06/19 8:19:53 PM GMT+2,1,5,3,4,4,3,I am now able to make small calculations in my head way faster; I learned public-speaking; including describing objects and places and my english skills have grown a lot (I'm not a native speaker) and my vocabulary has expanded very much.,math english|public-speaking
-2019/06/19 8:21:15 PM GMT+2,12,3,4,4,3,5,Improvisation; time management; improved reading comprehension and recall,improvising|management|reading
+2019/06/19 8:21:15 PM GMT+2,12,3,4,4,3,5,Improvisation; time management; improved reading comprehension and recall,improvisation|management|english
 2019/06/19 8:21:17 PM GMT+2,3,2,3,4,4,4,I play TTRPGs as a result of playing both videogames and doing theatre for 8 years. All the skills about improv or keeping cool (emotional skills) came from 2 fields; but weren't originated in TTRPGs. To be fair though; D&D has helped me from a storytelling standpoint to understand how to craft a well paced story,storytelling|improvisation|emotion
 2019/06/19 8:21:30 PM GMT+2,4,4,3,3,2,4,To deal with people that have conficting interests,management
-2019/06/19 8:21:31 PM GMT+2,2,5,4,5,3,5,Quick math and planning,math|planning
+2019/06/19 8:21:31 PM GMT+2,2,5,4,5,3,5,Quick math and planning,math|management
 2019/06/19 8:21:38 PM GMT+2,10,4,3,4,4,4,,
-2019/06/19 8:22:18 PM GMT+2,2,1,5,5,5,5,Work/life balance,planning|
+2019/06/19 8:22:18 PM GMT+2,2,1,5,5,5,5,Work/life balance,social
 2019/06/19 8:23:29 PM GMT+2,1.5,2,3,4,4,3,Fun,fun|
 2019/06/19 8:23:37 PM GMT+2,1,2,4,5,4,4,I have learned a lot of team building and story building skills,cooperation storytelling|
 2019/06/19 8:24:13 PM GMT+2,3,3,3,4,4,4,Lots of things; ranging from big ones like empathy to stuff like silly accents and characterization. ,empathy|improvisation
@@ -66,22 +66,22 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/19 8:38:23 PM GMT+2,7,4,3,4,3,4,There's always more than one way to solve a problem; and just cause it's not the way you thought; doesn't mean it's stupid,problem-solving|
 2019/06/19 8:40:28 PM GMT+2,1.5,4,2,4,2,4,entertainment,fun|
 2019/06/19 8:41:03 PM GMT+2,6,3,3,4,4,3,,
-2019/06/19 8:41:45 PM GMT+2,1,2,4,5,4,3,Nothing ever goes as planned,improvising|
+2019/06/19 8:41:45 PM GMT+2,1,2,4,5,4,3,Nothing ever goes as planned,improvisation|
 2019/06/19 8:43:11 PM GMT+2,3,3,5,5,5,5,,
 2019/06/19 8:43:47 PM GMT+2,3,3,4,5,5,5,Creativity ,creativity|
 2019/06/19 8:45:14 PM GMT+2,1,2,4,5,4,4,,
-2019/06/19 8:45:21 PM GMT+2,3,4,4,4,2,2,To listen better; learn to say yes more and be open to other people's ideas. ,understanding|
+2019/06/19 8:45:21 PM GMT+2,3,4,4,4,2,2,To listen better; learn to say yes more and be open to other people's ideas. ,social|
 2019/06/19 8:45:31 PM GMT+2,12,4,5,5,5,5,Social problem-solving; group management; and narrative verisimilitude.,social management|
 2019/06/19 8:47:48 PM GMT+2,2 ,4,2,4,5,4,I've learned that people are generally looking for an excuse to hang out. It can feel overwhelming as an adult to make time for friends and organize a meeting. Which makes it so you dont want to bother yoyrself or others unless its worth it but hanging with your friends is worth it always. ,fun|
 2019/06/19 8:48:04 PM GMT+2,22,4,4,4,4,5,,
 2019/06/19 8:49:47 PM GMT+2,5,1,1,1,1,1,I'm better at making characters now,creativity|
 2019/06/19 8:52:10 PM GMT+2,1,1,1,1,1,1,Fun ,fun|
 2019/06/19 8:53:05 PM GMT+2,37,3,4,5,3,4,,
-2019/06/19 8:54:12 PM GMT+2,21,3,4,4,4,4,Critical thinking / working puzzles,thinking|
+2019/06/19 8:54:12 PM GMT+2,21,3,4,4,4,4,Critical thinking / working puzzles,problem-solving
 2019/06/19 8:54:23 PM GMT+2,6,4,2,5,4,5,The ability to channel my creativity in a productive way,creativity|
 2019/06/19 8:54:35 PM GMT+2,1,4,3,3,3,3,,
 2019/06/19 8:56:27 PM GMT+2,1,1,2,3,3,2,,
-2019/06/19 8:59:43 PM GMT+2,16,4,4,5,4,4,It has flowed easily into my career as project manager. Part of the reason I enjoy DMing is the fact that I have grown the skills to schedule and manage everyone's schedules; along with learning to how motivate and tailor experiences to different types of people. ,management planning motivating|
+2019/06/19 8:59:43 PM GMT+2,16,4,4,5,4,4,It has flowed easily into my career as project manager. Part of the reason I enjoy DMing is the fact that I have grown the skills to schedule and manage everyone's schedules; along with learning to how motivate and tailor experiences to different types of people. ,management|social
 2019/06/19 8:59:47 PM GMT+2,5,3,4,4,5,5,Confidence in myself as a storyteller and as a person.,confidence|
 2019/06/19 9:00:05 PM GMT+2,1,2,4,5,4,5,Amazing friends that I play with; generally made my life 100 times better than it was before.,friendship|
 2019/06/19 9:02:40 PM GMT+2,1,3,3,4,3,5,,
@@ -91,17 +91,17 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/19 9:05:56 PM GMT+2,2,1,3,4,4,3,A new hobby and community ,fun|
 2019/06/19 9:07:33 PM GMT+2,2,4,3,3,3,3,The joy that doing stupid voices and being silly with your friends,fun|
 2019/06/19 9:10:36 PM GMT+2,14 ,3,5,5,5,5,Table top gaming has been a great way to explore perspectives and topics that I can’t in real life. It has helped me develop empathy and has made it easier for me to connect with people outside of table top gaming. ,empathy social|
-2019/06/19 9:10:49 PM GMT+2,5,1,1,4,4,4,The ability to quickly react to situations,improvising|
+2019/06/19 9:10:49 PM GMT+2,5,1,1,4,4,4,The ability to quickly react to situations,improvisation|
 2019/06/19 9:11:35 PM GMT+2,32,3,4,4,4,4,How to agree to disagree gracefully; how to work with very different people to reach a mutual goal; and when it is better to allow others to learn from mistakes that in real life would be very painful if not out right lethal.,cooperation|management
 2019/06/19 9:12:24 PM GMT+2,20,3,4,4,2,5,I have learned to have confidence in my decisions and be less afraid to do something sub-optimally. ,confidence|
-2019/06/19 9:14:22 PM GMT+2,3,3,2,4,3,4,If I can find the patience to put up with my players; I can deal with just about anyone.,patience social|
+2019/06/19 9:14:22 PM GMT+2,3,3,2,4,3,4,If I can find the patience to put up with my players; I can deal with just about anyone.,social|
 2019/06/19 9:14:40 PM GMT+2,12,4,2,4,4,3,,
-2019/06/19 9:15:04 PM GMT+2,0,5,3,4,2,3,Its as a DM; life is a unpredictable mess and that plans not allways works as intended. It’s best during those situations to just improvise ,improvising|
-2019/06/19 9:15:11 PM GMT+2,1,1,3,4,5,4,Better critical thinking skills,thinking|
+2019/06/19 9:15:04 PM GMT+2,0,5,3,4,2,3,Its as a DM; life is a unpredictable mess and that plans not allways works as intended. It’s best during those situations to just improvise ,improvisation|
+2019/06/19 9:15:11 PM GMT+2,1,1,3,4,5,4,Better critical thinking skills,problem-solving
 2019/06/19 9:15:42 PM GMT+2,1,3,2,5,3,4,Writing skills,storytelling|
 2019/06/19 9:18:19 PM GMT+2,17,3,5,5,5,5,Better group management and team solving skills ,management cooperation|
 2019/06/19 9:20:03 PM GMT+2,16,4,4,4,4,4,Tons of fun,fun|
-2019/06/19 9:20:34 PM GMT+2,12,4,4,5,5,5,Improv; speaking in front of others more confidently; organizational skills; managing schedules/people; ,improvising social management|
+2019/06/19 9:20:34 PM GMT+2,12,4,4,5,5,5,Improv; speaking in front of others more confidently; organizational skills; managing schedules/people; ,improvisation|social|management|
 2019/06/19 9:23:37 PM GMT+2,20 ,4,3,4,4,5,Friends and a lifelong hobby,friendship fun|
 2019/06/19 9:24:09 PM GMT+2,1,2,4,4,3,4,,
 2019/06/19 9:26:19 PM GMT+2,24,4,5,4,5,5,The ability to socialize over things that I enjoy; while learning to disregard people who would judge me for the things I like.  How to look at the world from both sides of the spectrum; such as the views of the player; but also the views of the monsters/villains they oppose.  How to better make choices socially and statistically that will yield the results that I find most beneficial.   How to analyze and understand statistical data through the dice rolling.  How to write more neatly.  I learned a lot about socialization also that people want to put themselves; or in the vernacular... be in a party... with good aligned people more than they want to be with evil aligned.  That alignment in a political spectrum doesn't have to be Lawful/Stupid; and that there are degrees to belief from mild support to outright zealotry.  I could go on... I think you get the idea. ,social empathy cooperation|
@@ -126,21 +126,21 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/19 9:45:35 PM GMT+2,5,2,4,4,3,4,,
 2019/06/19 9:45:54 PM GMT+2,3,3,2,2,3,4,,
 2019/06/19 9:48:13 PM GMT+2,20,3,2,5,3,4,,
-2019/06/19 9:48:43 PM GMT+2,23,4,3,4,3,3,Mostly creative writing and improvisational skills. Some organizational skills as well.,writing improvising managing|
+2019/06/19 9:48:43 PM GMT+2,23,4,3,4,3,3,Mostly creative writing and improvisational skills. Some organizational skills as well.,writing|improvisation|management|
 2019/06/19 9:48:49 PM GMT+2,5,3,2,2,2,3,I'm much faster at simple math now; namely small integer addition.,math|
-2019/06/19 9:49:11 PM GMT+2,4 ,1,1,2,2,2,while i do not feel that i have LEARNED many skills; do feel that many of the social and improv skills that i have have been improved thorugh playing tabletop RPGs,social improvising|
+2019/06/19 9:49:11 PM GMT+2,4 ,1,1,2,2,2,while i do not feel that i have LEARNED many skills; do feel that many of the social and improv skills that i have have been improved thorugh playing tabletop RPGs,social|improvisation|
 2019/06/19 9:49:20 PM GMT+2,5,5,4,5,5,5,Emphaty,empathy|
 2019/06/19 9:49:24 PM GMT+2,4,2,3,4,4,3,,
-2019/06/19 9:51:26 PM GMT+2,3,3,3,3,3,4,I think I was pretty well-socialized prior to playing TTRPGs; instead I'd say being a DM has taught me more about organization; quick thinking and storytelling,managing storytelling|
+2019/06/19 9:51:26 PM GMT+2,3,3,3,3,3,4,I think I was pretty well-socialized prior to playing TTRPGs; instead I'd say being a DM has taught me more about organization; quick thinking and storytelling,management|storytelling|
 2019/06/19 9:51:27 PM GMT+2,3,4,4,4,3,4,The life my wife and I lead is somewhat isolationist because of scheduling; but D&D allows me to schedule built-in friend-group time for us; and it's awesome.,friendship fun|
 2019/06/19 9:51:48 PM GMT+2,1 ,4,2,1,2,4,It's a hell of a lot of fun and a great way to avoid thinking about the crushing amount of schoolwork I gotta still get done.,fun|
-2019/06/19 9:53:20 PM GMT+2,7,4,5,5,5,5,The biggest thing has been improved public-speaking skills. As a soon-to-be schoolteacher I will certainly use the preparation and speaking abilities cultivated through TTRPGs to help me in my career.,prep speaking|practice-irl
-2019/06/19 9:54:34 PM GMT+2,5,4,4,5,4,5,Social skills are a big one. problem-solving; scheduling. Plus; a whole freaking lot of friends I wouldn't have made otherwise. These people live states and countries away from me (USA). Additionally; I write homebrew stuff for D&D 5e; so it is a great outlet as well.,social problem-solving planning friendship creativity|
+2019/06/19 9:53:20 PM GMT+2,7,4,5,5,5,5,The biggest thing has been improved public-speaking skills. As a soon-to-be schoolteacher I will certainly use the preparation and speaking abilities cultivated through TTRPGs to help me in my career.,public-speaking|practice-irl
+2019/06/19 9:54:34 PM GMT+2,5,4,4,5,4,5,Social skills are a big one. problem-solving; scheduling. Plus; a whole freaking lot of friends I wouldn't have made otherwise. These people live states and countries away from me (USA). Additionally; I write homebrew stuff for D&D 5e; so it is a great outlet as well.,social|problem-solving|friendship|creativity|
 2019/06/19 9:56:39 PM GMT+2,1,5,3,4,4,5,To not be ashamed of doing things i love,emotion|confidence
 2019/06/19 9:58:40 PM GMT+2,2,1,4,4,2,3,,
 2019/06/19 9:59:18 PM GMT+2,2,2,4,5,4,5,The best thing I have learned from dnd is empathy and teamwork,empathy cooperation|
 2019/06/19 9:59:46 PM GMT+2,1,3,3,4,4,4,Ive learned to step out of my comfort zone more; and I am able to share all of my stories and characters with my friends,confidence expression|
-2019/06/19 9:59:55 PM GMT+2,33,3,2,5,3,5,multitasking. strategic thinking. short and long term memory.  ability to pull data from various sources and arrive at a single outcome. example; What is my To Hit score?:   strength + skill + advantages + buffs + racial advantages + items + situational advantages   lots of different sources and types to remember and to check; and then munge into a final discrete number; need to do it quickly and accurately.   that particular type of exercise helps tremendously for tech type jobs.  ,multitasking memory|math
+2019/06/19 9:59:55 PM GMT+2,33,3,2,5,3,5,multitasking. strategic thinking. short and long term memory.  ability to pull data from various sources and arrive at a single outcome. example; What is my To Hit score?:   strength + skill + advantages + buffs + racial advantages + items + situational advantages   lots of different sources and types to remember and to check; and then munge into a final discrete number; need to do it quickly and accurately.   that particular type of exercise helps tremendously for tech type jobs.  ,math
 2019/06/19 10:00:21 PM GMT+2,1,2,1,1,3,5,Negotiation skills,social|
 2019/06/19 10:01:47 PM GMT+2,3,3,2,3,4,5,,
 2019/06/19 10:01:47 PM GMT+2,17,3,3,5,4,4,,
@@ -150,8 +150,8 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/19 10:02:46 PM GMT+2,15,3,4,4,4,5,It gives me an emotional outlet that is outside talking it out. Also; sometimes it's nice to have a different inner voice than your regular one. I've definitely had a conversation with my favorite characters telling me to be brave.,emotion|confidence|
 2019/06/19 10:03:49 PM GMT+2,2,1,1,1,3,2,Dnd is fun,fun|
 2019/06/19 10:04:39 PM GMT+2,6,3,3,5,4,5,I can get over performance anxiety; I've learned not to be the center of attention;  I've bolstered my creativity; made new friends; and have a great many stories to tell.,confidence creativity friendship|
-2019/06/19 10:04:48 PM GMT+2,8,3,4,5,5,5,How to manage groups. Expectations. How to tell good stories. How to negotiate in relationships. ,managing|storytelling|
-2019/06/19 10:06:35 PM GMT+2,20,2,3,4,4,4,It's helped me process how to express myself in more diplomatic ways; to exercise the story writer parts of my brain that help me understand character motivations of the real people in my life. ,expressing irl|practice-irl
+2019/06/19 10:04:48 PM GMT+2,8,3,4,5,5,5,How to manage groups. Expectations. How to tell good stories. How to negotiate in relationships. ,management|storytelling|
+2019/06/19 10:06:35 PM GMT+2,20,2,3,4,4,4,It's helped me process how to express myself in more diplomatic ways; to exercise the story writer parts of my brain that help me understand character motivations of the real people in my life. ,expression|practice-irl
 2019/06/19 10:07:07 PM GMT+2,1,3,4,4,4,4,Making stories happen is one of my greatest needs,storytelling|
 2019/06/19 10:07:19 PM GMT+2,35,3,5,5,5,5,I credit rpgs for a great deal of my social ability and success in my career. The ability to work in teams; to solve problems and most importantly to learn and model empathy and how to care for my fellows has been essential for my personal life and professional success. I am a better person; and hopefully a better employee; boss; friend and husband because of gaming.,social cooperation problem-solving empathy|
 2019/06/19 10:07:42 PM GMT+2,28,4,3,4,4,4,Confidence. I have learned to speak to people confidently. I have learned how to command attention from a room full of people. I have learned to speak clearly and thoughtfully. I have learned to empathize with others; how others feel and think. I have learned to put the needs of others before myself. Overall; I have made many friends during my gaming sessions; and it has helped me develop as a fully functional human being who can interact with others on a day to day basis.,confidence public-speaking empathy friendship|
@@ -162,8 +162,8 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/19 10:12:13 PM GMT+2,5,4,4,4,4,4,Gainesville confidence,confidence|
 2019/06/19 10:12:39 PM GMT+2,1,3,3,3,3,3,,
 2019/06/19 10:13:11 PM GMT+2,3,4,3,4,4,5,a place to relax and not worty about the rest of the world. also it’s provided a place for me to come a little out of my shell and not worry about making an ass of myself,fun expression|
-2019/06/19 10:13:24 PM GMT+2,1,3,4,5,4,5,Playing TTRPG's has given me and my friends a super fun and _creative_ way to hang out. The imagination I used to have as a kid has started to come back which is incredible! In general I have a more positive view of going out and doing things because everything in life is kind of an adventure. Seeing a character struggle but in the end succeed is also motivational.,friendship fun creativity motivation|
-2019/06/19 10:14:46 PM GMT+2,1,3,3,4,4,4,Improvising; 'presenting'; an understanding for rulesets or systems,improvising|public-speaking
+2019/06/19 10:13:24 PM GMT+2,1,3,4,5,4,5,Playing TTRPG's has given me and my friends a super fun and _creative_ way to hang out. The imagination I used to have as a kid has started to come back which is incredible! In general I have a more positive view of going out and doing things because everything in life is kind of an adventure. Seeing a character struggle but in the end succeed is also motivational.,friendship|fun|creativity|
+2019/06/19 10:14:46 PM GMT+2,1,3,3,4,4,4,Improvising; 'presenting'; an understanding for rulesets or systems,improvisation|public-speaking
 2019/06/19 10:15:13 PM GMT+2,6,1,3,4,4,4,Seeing things from other perspectives. problem-solving.,problem-solving|empathy
 2019/06/19 10:15:21 PM GMT+2,2,5,3,3,3,4,Conflict resolution,management|social
 2019/06/19 10:16:00 PM GMT+2,38,4,3,5,4,4,Vocabulary; math; theater skills; improved critical thinking,math|improvisation|english
@@ -180,7 +180,7 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/19 10:25:44 PM GMT+2,1,4,4,4,4,4,A better understand of what outcomes will be caused by actions ,practice-irl
 2019/06/19 10:25:47 PM GMT+2,6,2,3,4,4,4,Strategy and how to improv ,improvisation
 2019/06/19 10:26:14 PM GMT+2,2,4,3,4,4,3,Improvisational skills; and better storytelling skills.,improvisation|storytelling
-2019/06/19 10:26:17 PM GMT+2,5,3,3,4,3,4,A sense of imagination and creativity that I don't think I would have.  As an adult there aren't really many ways to let your mind have fun; but D&D is so fantastic in that it thrives on letting your mind out of its box to see and experience so many different things.  Its been like therapy for me.,fun|therapy
+2019/06/19 10:26:17 PM GMT+2,5,3,3,4,3,4,A sense of imagination and creativity that I don't think I would have.  As an adult there aren't really many ways to let your mind have fun; but D&D is so fantastic in that it thrives on letting your mind out of its box to see and experience so many different things.  Its been like therapy for me.,fun|emotion
 2019/06/19 10:27:41 PM GMT+2,9,3,2,4,3,4,Organising people do focus on one particular task (i.e. playing the game),management
 2019/06/19 10:29:32 PM GMT+2,1,2,3,3,4,4,Creating genuine characters,writing
 2019/06/19 10:30:20 PM GMT+2,5,3,4,5,5,5,Friendship; social skills; empathy; definitely empathy; very much so empathy,friendship|social|empathy
@@ -188,10 +188,10 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/19 10:33:36 PM GMT+2,2,5,3,4,3,4,Helps me understand other viewpoints than my own; especially as a create NPCs; especially villains; that have varied motivations and viewpoints. ,empathy
 2019/06/19 10:33:39 PM GMT+2,4,3,2,4,3,5,I have learned a lot of writing skills both as 3.  Purely as a DM; I have greatly increased my improv skills - thinking on my feet; and trying to keep a plotline realistic when my players do something unexpected. I don't know if playing has helped me learn any emotional skills; but you certainly get to practice them!  Also; it's good practice for your poker face when your players throw a wrench into your plans... or fall right into a really stupid trap.  It's great watching your friends have fun.,writing|improvisation|emotion|fun
 2019/06/19 10:35:25 PM GMT+2,4,3,4,5,4,5,How to craft a story.,storytelling
-2019/06/19 10:35:26 PM GMT+2,5,4,1,1,1,1,A greater interest in history and geography,history|geography
+2019/06/19 10:35:26 PM GMT+2,5,4,1,1,1,1,A greater interest in history and geography,
 2019/06/19 10:36:07 PM GMT+2,20,1,1,1,1,1,I gained a friend that I've had now for 15+ years. We have never met in person but talk daily. I have learned to become a better writer and to not judge a person or a situation too quickly. Better to assess before making a final decision. ,friendship|writing|empathy
 2019/06/19 10:36:49 PM GMT+2,2,3,2,3,2,3,,
-2019/06/19 10:37:21 PM GMT+2,6,1,3,4,4,3,Basic math (fast addition; subtraction); love of reading (starting with fantasy novels and expanding from there),math|reading
+2019/06/19 10:37:21 PM GMT+2,6,1,3,4,4,3,Basic math (fast addition; subtraction); love of reading (starting with fantasy novels and expanding from there),math|english
 2019/06/19 10:37:39 PM GMT+2,2,4,3,4,4,4,How to improvise ,improvisation
 2019/06/19 10:39:41 PM GMT+2,10,3,2,2,2,4,Entertainment,fun
 2019/06/19 10:39:50 PM GMT+2,18,1,1,1,1,4,I've gained an excuse to hang out with friends and fun.,fun
@@ -222,14 +222,14 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/19 10:54:02 PM GMT+2,4,4,3,5,4,5,How to work to achieve a common goal; how to settle disputes.,management|social
 2019/06/19 10:54:08 PM GMT+2,3 ,3,4,5,3,4,That You can certainly try. Brings out a different part of me that likes to be challenged.,problem-solving
 2019/06/19 10:55:08 PM GMT+2,2,5,4,3,3,3,,
-2019/06/19 10:56:06 PM GMT+2,25,3,5,5,5,5,Working with groups; conflict resolution; creativity; critical analysis (reading & interrupting rules; build; combos); storytelling; public-speaking; leadership when GMing; better writing skills; & oddly enough how to be a better parent.,management|conflict|empathy|creativity|storytelling|writing
+2019/06/19 10:56:06 PM GMT+2,25,3,5,5,5,5,Working with groups; conflict resolution; creativity; critical analysis (reading & interrupting rules; build; combos); storytelling; public-speaking; leadership when GMing; better writing skills; & oddly enough how to be a better parent.,management|empathy|creativity|storytelling|writing
 2019/06/19 10:56:28 PM GMT+2,2,2,3,4,4,4,I’ve learned to appreciate what it offers to a group of people; the expansive creativity is what people want to express and rpg/ttrpg let us do that.,creativity
 2019/06/19 10:57:37 PM GMT+2,1.5,2,4,5,4,5,,
-2019/06/19 10:58:04 PM GMT+2,22,4,3,5,2,4,Storytelling is a vehicle for emotional processing; which is awesome. But prepping for RPGs also incorporates a whole lot of planning; time (and people) management; and math.,storytelling|emotion|management|planning|math
+2019/06/19 10:58:04 PM GMT+2,22,4,3,5,2,4,Storytelling is a vehicle for emotional processing; which is awesome. But prepping for RPGs also incorporates a whole lot of planning; time (and people) management; and math.,storytelling|emotion|management|math
 2019/06/19 10:58:22 PM GMT+2,1,3,3,4,4,4,Confidence. ,confidence
 2019/06/19 10:58:53 PM GMT+2,3,2,3,4,4,5,,
 2019/06/19 10:59:21 PM GMT+2,13,3,3,4,3,4,,
-2019/06/19 11:00:12 PM GMT+2,8,3,4,4,3,3,Collaboration; non linear problem-solving; communication; emotional openness; willingness to accept outside viewpoints and perspectives. ,collaboration|problem-solving|social|emotion|empathy
+2019/06/19 11:00:12 PM GMT+2,8,3,4,4,3,3,Collaboration; non linear problem-solving; communication; emotional openness; willingness to accept outside viewpoints and perspectives. ,cooperation|problem-solving|social|emotion|empathy
 2019/06/19 11:00:59 PM GMT+2,8,4,2,5,4,5,How to keep mass information organized; storytelling; event organization; creative writing; problem-solving; ,storytelling|management|creativity|problem-solving
 2019/06/19 11:01:56 PM GMT+2,6,4,4,4,3,3,Comfortable speaking in front of a group,social
 2019/06/19 11:02:05 PM GMT+2,12,4,4,4,3,4,Empathy. If I want to play a character well; I tend to look more at the people around me. What starts off as inspiration to build an imaginary character blossoms into better understanding of how people feel and think.,empathy
@@ -253,12 +253,12 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/19 11:11:08 PM GMT+2,1,2,4,4,3,3,I now know how to be a cat person.,fun
 2019/06/19 11:11:33 PM GMT+2,4,4,4,4,4,4,From DM-ing you learn very quickly to account for other people’s feelings and resolve conflicts when that occurs. I have also massively boosted improvisational skills and making good; educated decisions under pressure.,empathy|management|improvisation
 2019/06/19 11:11:44 PM GMT+2,3,3,2,2,2,2,,
-2019/06/19 11:11:59 PM GMT+2,0.8,3,4,5,3,4,Experience of tactics in a fantasy environment ,strategy
+2019/06/19 11:11:59 PM GMT+2,0.8,3,4,5,3,4,Experience of tactics in a fantasy environment ,problem-solving
 2019/06/19 11:12:30 PM GMT+2,1,3,2,2,4,4,Creativity,creativity
 2019/06/19 11:13:47 PM GMT+2,0,5,4,4,3,4,Confidence,confidence
-2019/06/19 11:13:55 PM GMT+2,3,3,4,5,3,4,Teamwork; Thinking things though; multitasking,social|multitasking
+2019/06/19 11:13:55 PM GMT+2,3,3,4,5,3,4,Teamwork; Thinking things though; multitasking,social|
 2019/06/19 11:14:17 PM GMT+2,5,4,1,2,2,5,,
-2019/06/19 11:14:20 PM GMT+2,33,3,3,3,3,4,Working in groups; analysing hypothetical situations for responses; challenging my own ideas of the world; following systems/rules to a desired outcome; storytelling; logic based on differing perspectives and information; a reason to hang out with old friends; ,storytelling|friendship|logic
+2019/06/19 11:14:20 PM GMT+2,33,3,3,3,3,4,Working in groups; analysing hypothetical situations for responses; challenging my own ideas of the world; following systems/rules to a desired outcome; storytelling; logic based on differing perspectives and information; a reason to hang out with old friends; ,storytelling|friendship
 2019/06/19 11:14:26 PM GMT+2,3,3,2,4,3,1,Confidence around strangers and in larger groups; organisational skills,management|confidence
 2019/06/19 11:14:31 PM GMT+2,2,3,3,4,3,4,Lots of problem-solving and team building! More creative thinking in general as well,problem-solving|social|creativity
 2019/06/19 11:14:59 PM GMT+2,2,3,4,4,3,4,,
@@ -296,7 +296,7 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/19 11:39:30 PM GMT+2,5,2,4,5,4,4,,
 2019/06/19 11:39:43 PM GMT+2,2,4,1,4,4,5,,
 2019/06/19 11:40:57 PM GMT+2,3,3,4,5,5,5,A better understanding of math and probabilities; as well as several very important friendships,math|friendship
-2019/06/19 11:40:59 PM GMT+2,3,4,4,4,3,3,how to adapt and inverate; how to improvise on the spot,improvise
+2019/06/19 11:40:59 PM GMT+2,3,4,4,4,3,3,how to adapt and inverate; how to improvise on the spot,improvisation
 2019/06/19 11:42:00 PM GMT+2,35,1,3,4,2,4,,
 2019/06/19 11:42:05 PM GMT+2,10 ,4,3,4,3,4,,
 2019/06/19 11:42:25 PM GMT+2,6,3,3,4,4,4,Conflict resolution,social
@@ -335,9 +335,9 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/20 12:04:34 AM GMT+2,1,1,3,3,4,4,I strengthened my bonds with some friends; made new ones; distressed from life; met my first gf (and ex-gf) through the gf of one of my new friends.TLDR strengthened and made new friendships.,friendship|social
 2019/06/20 12:04:42 AM GMT+2,5,4,2,4,3,4,,
 2019/06/20 12:05:04 AM GMT+2,1,1,3,3,3,4,A new sense of imagination and creativity that I thought was lost with childhood ,creativity
-2019/06/20 12:05:12 AM GMT+2,3,3,3,4,4,5,I've learned that not everything is meant be be won; and most things you must work for,life experience
+2019/06/20 12:05:12 AM GMT+2,3,3,3,4,4,5,I've learned that not everything is meant be be won; and most things you must work for,
 2019/06/20 12:07:36 AM GMT+2, 6,3,3,3,3,3,,
-2019/06/20 12:07:42 AM GMT+2,2,3,4,5,4,5,As a player; I learned not everyone works well together. As a DM; I learned a whole lot about why the world is the way it is and how it came to be that way; both geologically and people-logically.,social|world
+2019/06/20 12:07:42 AM GMT+2,2,3,4,5,4,5,As a player; I learned not everyone works well together. As a DM; I learned a whole lot about why the world is the way it is and how it came to be that way; both geologically and people-logically.,social|
 2019/06/20 12:08:27 AM GMT+2,14,4,4,5,4,5,I became a more well rounded; social individual. Without roleplay; I would have receded into asocial obscurity. ,social
 2019/06/20 12:11:22 AM GMT+2,2,1,3,4,4,4,Social skills; public-speaking; entertainment,public-speaking|social
 2019/06/20 12:11:22 AM GMT+2,4,3,4,5,5,5,Confidence in my creativity; ability to connect with more diverse groups of people; lots of work on my social anxiety,confidence|creativity|social
@@ -345,7 +345,7 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/20 12:12:47 AM GMT+2,4,4,4,4,4,4,,
 2019/06/20 12:13:21 AM GMT+2,5,5,3,4,3,4,improvisation,improvisation
 2019/06/20 12:14:09 AM GMT+2,15,3,1,2,2,4,,
-2019/06/20 12:15:07 AM GMT+2,20,4,2,2,2,2,Storytelling; Improvisational Collaboration ,storytelling|improvisation|collaboration
+2019/06/20 12:15:07 AM GMT+2,20,4,2,2,2,2,Storytelling; Improvisational Collaboration ,storytelling|improvisation|cooperation
 2019/06/20 12:15:36 AM GMT+2,1,3,3,4,4,4,To announce your reaction before the dm can ask for initiative,
 2019/06/20 12:16:27 AM GMT+2,7,3,4,4,2,3,Planning and group scheduling! Keeping communication lines open with the purpose of making sure everyone has the information they need to act; in time to decide what to do; to minimize wasted time/effort and maximize fun.,management|social|fun
 2019/06/20 12:17:19 AM GMT+2,1,3,4,5,4,5,Many good friends; better social skills; i think it helped my problem-solvings skills and mademe better at looking for a creative solution to a problem.,friendship|social|problem-solving|creativity|problem-solving
@@ -479,7 +479,7 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/20 3:00:58 AM GMT+2,7,4,4,2,2,4,,
 2019/06/20 3:03:07 AM GMT+2,20,3,4,4,4,5,Good learning tool for how gray life's choices can be.,practice-irl
 2019/06/20 3:05:22 AM GMT+2,5,4,2,5,5,5,,
-2019/06/20 3:05:45 AM GMT+2,3,3,4,5,4,4,Analytical skills; teamwork; and compromise. I’ve also improved my writing skills and creative thinking. ,collaboration|writing|creativity
+2019/06/20 3:05:45 AM GMT+2,3,3,4,5,4,4,Analytical skills; teamwork; and compromise. I’ve also improved my writing skills and creative thinking. ,cooperation|writing|creativity
 2019/06/20 3:10:09 AM GMT+2,1,3,4,3,4,4,,
 2019/06/20 3:12:32 AM GMT+2,2,1,3,4,4,4,Found a creative outlet; I thought I couldn’t be creative but the love I have for my characters makes me more confident in myself,creativity|expression
 2019/06/20 3:13:41 AM GMT+2,34,4,4,5,4,4,How to give voice to the various aspects of my personality; both in-game and in real life.,expression|practice-irl
@@ -495,7 +495,7 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/20 3:38:19 AM GMT+2,4,1,5,5,5,5,I've been able to channel the more assertive and charismatic characters to adopt those traits IRL ,emotion|expression
 2019/06/20 3:39:16 AM GMT+2,16,3,4,4,4,4,How to set up realistic expectations and how to deal with toxic people,social
 2019/06/20 3:40:18 AM GMT+2,1,1,4,5,4,4,Sometimes it's okay to sit down and be someone else; but all in all; you need to be true to you.,expression|confidence
-2019/06/20 3:42:24 AM GMT+2,24,4,5,5,5,5,How to remember and analyze rule sets. ,memory
+2019/06/20 3:42:24 AM GMT+2,24,4,5,5,5,5,How to remember and analyze rule sets. ,
 2019/06/20 3:43:12 AM GMT+2,5,4,5,5,5,5,Confidence in my decisions and not needing to be perfect. ,confidence
 2019/06/20 3:44:07 AM GMT+2,5,3,4,4,4,3,,
 2019/06/20 3:45:23 AM GMT+2,9,4,5,3,3,4,A bookshelf and a firm grasp of probability math.,math
@@ -505,11 +505,11 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/20 3:47:05 AM GMT+2,1,5,3,3,3,3,I've answered neutral to all of these questions because I'd say I've already been doing well in those regards; e.g social skills; emotional skills; etc. I know that probably won't help much with your data gathering; and I'm sorry. Hopefully this bit of a write in will make up for it: I've engrossed myself in the community of DnD; and I've seen and heard so many stories of DnD doing exactly this for other people; and have gotten feedback and seen first hand players coming out of their shells and becoming more talkative and excited and social. Dungeons and Dragons is a very powerful tool; and one I'm glad I get to share with other people. ,social|expression
 2019/06/20 3:47:16 AM GMT+2,2,4,4,5,4,4,I learned how to tell stories more engagingly; learned how to be more comedic and well versed; and mostly how to bring out the best in others.,storytelling|
 2019/06/20 3:49:20 AM GMT+2,6,2,3,4,5,3,How to let go and stop worrying out how other people perceive me. ,social
-2019/06/20 3:49:55 AM GMT+2,23,4,3,4,3,4,Creativity; writing skills; math (specifically probability); and presentation skills.,creativity|math|writing skills
+2019/06/20 3:49:55 AM GMT+2,23,4,3,4,3,4,Creativity; writing skills; math (specifically probability); and presentation skills.,creativity|math|writing
 2019/06/20 3:52:23 AM GMT+2,14,3,3,5,4,4,public-speaking; storytelling; on the fly creativity,public-speaking|storytelling|creativity
 2019/06/20 3:54:30 AM GMT+2,5,4,4,4,3,4,,
 2019/06/20 3:55:39 AM GMT+2,4,3,4,4,3,5,how to improv; and how to roll with the punches life(or the DM) throws at you,improvisation
-2019/06/20 3:57:26 AM GMT+2,1,1,3,4,3,3,Willingness to express different parts of myself. Being able to try different personality traits. Collaboration and making sacrifices.,collaboration|expression|emotion
+2019/06/20 3:57:26 AM GMT+2,1,1,3,4,3,3,Willingness to express different parts of myself. Being able to try different personality traits. Collaboration and making sacrifices.,cooperation|expression|emotion
 2019/06/20 3:59:35 AM GMT+2,18,3,3,5,5,5,,
 2019/06/20 4:01:27 AM GMT+2,3,2,4,2,2,4,How to deal with failure,emotion
 2019/06/20 4:03:42 AM GMT+2,3,3,4,5,5,5,i learned how to push peoples buttons safely; i have also learned that people love secrets to a DETRIMENTAL DEGREE,social
@@ -593,7 +593,7 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/20 5:57:47 AM GMT+2,1,5,3,4,2,5,Voice acting,
 2019/06/20 6:12:18 AM GMT+2,2,3,3,2,3,3,,
 2019/06/20 6:14:10 AM GMT+2,5,3,4,5,5,1,With autism; it helps me at reading other people's emotions and playing/responding to then accordingly.,empathy
-2019/06/20 6:14:28 AM GMT+2,1,1,1,4,3,4,Decision making skills,strategy
+2019/06/20 6:14:28 AM GMT+2,1,1,1,4,3,4,Decision making skills,problem-solving
 2019/06/20 6:19:34 AM GMT+2,15,2,2,2,4,4,Impulse control,
 2019/06/20 6:22:38 AM GMT+2,3,1,3,4,4,4,,
 2019/06/20 6:23:52 AM GMT+2,2,3,1,3,2,4,,
@@ -668,7 +668,7 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/20 8:44:32 AM GMT+2,2,4,4,4,4,4,I now have a huge world that I am currently developing and am having many good times with my friends,friendship|fun
 2019/06/20 8:55:06 AM GMT+2,1,2,3,4,4,5,How to create an ever changing story with friends while getting to know each other better along the way.,fun|friendship
 2019/06/20 8:57:11 AM GMT+2,4,4,4,2,4,3,How to address problems with people directly and swiftly ,management|social
-2019/06/20 8:59:11 AM GMT+2,20,2,4,2,4,5,Tactics; leadership. Solve math quickly in my head,strategy|math
+2019/06/20 8:59:11 AM GMT+2,20,2,4,2,4,5,Tactics; leadership. Solve math quickly in my head,problem-solving|math
 2019/06/20 9:04:25 AM GMT+2,1,3,2,4,4,3,,
 2019/06/20 9:06:04 AM GMT+2,39,4,1,1,1,1,It's got me better at understanding probabilities,math
 2019/06/20 9:07:00 AM GMT+2,4,4,2,4,3,4,Well; considering I wish to be a narrative designer; knowing the ins and outs of a story through role-playing is a great opportunity for me! In fact; if it weren't for D&D; I wouldn't have reignited the passion for writing I lost in middle school! So; I gained back my passion; and a hope for the future.,writing|storytelling
@@ -807,9 +807,9 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/20 3:51:24 PM GMT+2,3,3,5,5,5,5,Teamwork and trust building. This was a problem for me in elementary school and highschool; as my partner(s) in groups would say they'd help me; but wouldn't. I still have some issues of that now; even though I am in college; but D&D has helped me build up those skills again.,social
 2019/06/20 3:52:27 PM GMT+2,1,3,3,5,3,4,How to deal with players with lack of enthusiasm; or players who like to bend the rules,management
 2019/06/20 3:53:00 PM GMT+2,7,3,4,4,4,5,,
-2019/06/20 3:53:48 PM GMT+2,12,4,4,4,5,4,From most to least significant: - Information organization skills including efficiency; clarity; data structures; and abstracting complex information- Improvisational skills including casual conversation; responding to objections; quickly synthesizing variables; and making definitive decisions withimited information- Collaborative skills including scheduling; conflict management; and ensuring all parties have a voice and buy-in for group decisions- Diverse historical knowledge including complex thinking about economics; social structures; religion; and morality,improvisation|collaboration|management
+2019/06/20 3:53:48 PM GMT+2,12,4,4,4,5,4,From most to least significant: - Information organization skills including efficiency; clarity; data structures; and abstracting complex information- Improvisational skills including casual conversation; responding to objections; quickly synthesizing variables; and making definitive decisions withimited information- Collaborative skills including scheduling; conflict management; and ensuring all parties have a voice and buy-in for group decisions- Diverse historical knowledge including complex thinking about economics; social structures; religion; and morality,improvisation|cooperation|management
 2019/06/20 3:54:35 PM GMT+2,5,2,4,5,4,5,,
-2019/06/20 3:55:08 PM GMT+2,11,4,2,2,3,4,Strategy; dealing with failure positively,strategy
+2019/06/20 3:55:08 PM GMT+2,11,4,2,2,3,4,Strategy; dealing with failure positively,problem-solving
 2019/06/20 4:05:09 PM GMT+2,1,3,4,4,3,4,I find that I have developed new ways of looking at writing and world building; focusing on a living world rather than a mechanical series of story beats.,writing|storytelling
 2019/06/20 4:07:33 PM GMT+2,1,1,3,4,4,3,To enjoy myself more and to even be more assertive. ,fun|expression
 2019/06/20 4:07:43 PM GMT+2,3 ,2,3,4,4,5,Mostly team/event management skills needed to run games at times available for everyone. Especially over the internet where time zones and other factors are taken into account.,management
@@ -855,8 +855,8 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/20 5:39:03 PM GMT+2,11,4,4,4,4,4,Group social dynamics ,social
 2019/06/20 5:39:45 PM GMT+2,2,3,3,5,4,5,,
 2019/06/20 5:46:38 PM GMT+2,12,4,2,4,3,4,,
-2019/06/20 5:47:29 PM GMT+2,10,4,5,5,5,5,The ability to understand that you as a person are only a piece of a much larger puzzle and that with that understanding comes the ability to make sense and cope with life.,understanding
-2019/06/20 5:49:48 PM GMT+2,30,3,5,5,5,5,How to think strategically,strategy
+2019/06/20 5:47:29 PM GMT+2,10,4,5,5,5,5,The ability to understand that you as a person are only a piece of a much larger puzzle and that with that understanding comes the ability to make sense and cope with life.,emotion
+2019/06/20 5:49:48 PM GMT+2,30,3,5,5,5,5,How to think strategically,problem-solving
 2019/06/20 5:50:32 PM GMT+2,6,3,1,1,3,1,,
 2019/06/20 5:52:20 PM GMT+2,18,3,2,3,3,5,Collective storytelling is incredible for inspiration and the importance of regular; habitual activities with friends you want to keep close,storytelling|friendship
 2019/06/20 5:58:08 PM GMT+2,4,1,3,5,4,4,Confidence in not just myself in general but confidence in the roles/characters I play.,confidence|expression
@@ -905,7 +905,7 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/21 2:14:09 AM GMT+2,3,3,4,4,3,4,I can analyze myself in situations that I would rather not be in personally to learn about myself. It is also a good way to hang on to friends. ,practice-irl|friendship
 2019/06/21 2:19:41 AM GMT+2,5,1,5,5,4,5,An empathy that can only come from actively putting yourself in the shoes of others and an appreciation for the world's systems thanks to the carefully crafted settings my DMs have presented me.,empathy
 2019/06/21 9:38:05 AM GMT+2,4,3,3,5,5,5,,
-2019/06/21 9:51:33 AM GMT+2,3,4,1,1,1,2,Creativity,creativit
+2019/06/21 9:51:33 AM GMT+2,3,4,1,1,1,2,Creativity,creativity
 2019/06/21 11:55:03 AM GMT+2,1,1,1,3,1,1,my friends are dicks ,friendship
 2019/06/21 3:25:46 PM GMT+2,25,4,5,5,5,5,Happiness; escapism; intellectual satisfaction; relaxation; stress; creative satisfaction; many other things.,creativity|fun
 2019/06/21 11:41:34 PM GMT+2,4,2,5,4,3,4,The biggest thing I’ve learned is how to say “no” to people ,social|expression
@@ -913,7 +913,7 @@ timestamp,years,player,emotion,social,friends,irl,gained
 2019/06/21 11:43:59 PM GMT+2,1 ,4,2,4,4,4,,
 2019/06/21 11:50:25 PM GMT+2,10,4,2,4,2,3,I have learned to develop my creativity in many aspects ,creativity
 2019/06/21 11:55:29 PM GMT+2,3,3,4,5,5,5,-Team Communication-Teamwork-Resource Management-Creative problem-solving,management|problem-solving
-2019/06/21 11:56:41 PM GMT+2,1 ,2,3,4,3,3,Strategic thinking ,strategy
+2019/06/21 11:56:41 PM GMT+2,1 ,2,3,4,3,3,Strategic thinking ,problem-solving
 2019/06/22 12:02:25 AM GMT+2,25,3,4,3,4,4,problem-solving; working collectively as a group; team building; mental math skills; and outside the box thinking.,problem-solving|social|math
 2019/06/22 12:05:33 AM GMT+2,28,3,3,5,4,3,No idea; I’ve been gaming too long totellsnymore,
 2019/06/22 12:06:02 AM GMT+2,1,3,1,3,3,2,Fun,fun
