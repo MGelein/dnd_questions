@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const lines = fs.readFileSync('data/answers_tagging.csv', "utf-8").split("\n");
+const lines = fs.readFileSync('data/answers_cleaned_final.csv', "utf-8").split("\n");
 const tagDict = {};
 for(let line of lines){
     const parts = line.split(",");
