@@ -1,6 +1,7 @@
 const fs = require('fs');
 const lines = fs.readFileSync('data/answers_tagging.csv', 'utf-8').split("\n");
 const newLines = [];
+let taggedCounter = 0;
 for(let line of lines){
     let parts = line.split(',');
     if(parts.length < 9) {
@@ -20,5 +21,7 @@ for(let line of lines){
     }
     parts[8] = newTags.join("|");
     newLines.push(parts.join(","));
+    taggedCounter++;
 }
+console.log(taggedCounter + " answers were tagged");
 fs.writeFileSync("data/answers_cleaned_final.csv", newLines.join("\n"), "utf-8");

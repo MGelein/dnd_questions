@@ -1,3 +1,6 @@
+606 answers with tags
+966 tags in total
+
 social = 125
 creativity = 111
 fun = 93
