@@ -8,6 +8,7 @@ for(let line of lines){
     tagLine = parts[parts.length - 1];
     tags = tagLine.split("|");
     for(let tag of tags){
+        tag = tag.trim().toLowerCase();
         if(tagDict[tag] == undefined){
             tagDict[tag] = 1;
         }else{
