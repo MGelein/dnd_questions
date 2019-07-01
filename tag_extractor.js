@@ -1,9 +1,9 @@
 const fs = require('fs');
 
-const lines = fs.readFileSync('data/answers_tagging.tsv', "utf-8").split("\n");
+const lines = fs.readFileSync('data/answers_tagging.csv', "utf-8").split("\n");
 const tagDict = {};
 for(let line of lines){
-    const parts = line.split("\t");
+    const parts = line.split(",");
     if(parts.length < 9) continue;
     tagLine = parts[parts.length - 1];
     tagLine = tagLine.split(" ").join("|");

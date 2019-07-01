@@ -45,6 +45,5 @@ improvise = 1
 life = 1
 experience = 1
 world = 1
-d&d = 2
 skills = 1
 creativit = 1
